@@ -1,4 +1,4 @@
-# AmongUsModMenu v1.5.5
+# AmongUsModMenu 
 
 A custom mod menu project for Among Us.
 
